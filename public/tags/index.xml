@@ -1,0 +1,7 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tags on </title>
+  <link href="//localhost:1313/tags/feed.xml" rel="self"/>
+  <link href="//localhost:1313/tags/"/>
+  <id>//localhost:1313/tags/</id>
+  <generator>Hugo -- gohugo.io</generator>
+</feed>

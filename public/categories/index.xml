@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on </title>
+    <link>//localhost:1313/categories/</link>
+    <description>Read the latest  Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Nov 2025 17:01:44 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Note</title>
+      <link>//localhost:1313/categories/note/</link>
+      <pubDate>Mon, 03 Nov 2025 17:01:44 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/note/</guid>
+      <description></description>
+      <content:encoded>
+        <![CDATA[  ]]>
+      </content:encoded>
+    </item>
+    
+  </channel>
+</rss>
